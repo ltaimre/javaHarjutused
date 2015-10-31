@@ -17,7 +17,7 @@ public class Kordamine1_laevad_maatriksil {
        genereeriLaud();
        laevadeGenereerimine();
         int[]xy = kysiPommitamisasukohta();
-       kontolliTabamust(xy );
+       kontolliTabamust(xy);
         //kasOnVeelAlles Laevu():
         //gameover():
     }
